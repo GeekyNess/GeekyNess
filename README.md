@@ -2,7 +2,7 @@
 - 👀 I’m interested web dev and OOP
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me the.polyglote@gmail.com
+- 📫 How to reach me ines.mraidi.im@gmail.com
 
 <!---
 GeekyNess/GeekyNess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
