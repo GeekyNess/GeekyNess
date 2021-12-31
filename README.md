@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GeekyNess
 - 👀 I’m interested web dev and OOP
 - 🌱 I’m currently learning Javascript
+- ☣️i have an interest for web3.0, blockchain and solidity
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ines.mraidi.im@gmail.com
 
